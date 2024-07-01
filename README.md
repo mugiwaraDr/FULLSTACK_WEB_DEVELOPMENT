@@ -15,7 +15,7 @@ automatically (your list will vary; if you don't see the desired interpreter, se
 Configuring Python environments). From the list, select the virtual environment 
 in your project folder that starts with ./env or .\env: 
 7. Create a New Terminal : In Menu Terminal -> New Terminal option 
-##Creating project:
+#Creating project:
 
 Type following command in the terminal opened: 
 #django-admin startproject p 
