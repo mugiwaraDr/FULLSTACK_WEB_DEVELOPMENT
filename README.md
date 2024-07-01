@@ -18,6 +18,7 @@ in your project folder that starts with ./env or .\env:
 #Creating project:
 
 Type following command in the terminal opened: 
+
 #django-admin startproject p 
 
 #python manage.py runserver
