@@ -25,3 +25,5 @@ Type following command in the terminal opened:
 
 #python manage.py startapp lab1
 
+To add the template files create the "templates" folder in the app directory.
+
